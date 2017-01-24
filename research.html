@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="layout.css" type="text/css" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+<title>Teaching</title>
+</head>
+
+<body id="body">
+<div id="container">
+	<div id="banner">
+		<img src="Immagini/Banner.png"/>
+    </div>
+    
+     
+    <ul class="menu">
+		<li class="menu-item">
+			<a href="./index.html" class="link">About me</a>
+		</li>
+<!--		<li class="menu-item">
+			<a href="./teaching.html" class="link">Teaching</a>
+		</li>-->
+		<li class="menu-item">
+			<a href="./research.html" class="link">Research</a>
+		</li>
+<!--		<li class="menu-item">
+			<a href="./tool.html" class="link">Tools</a>
+		</li>
+		<li class="menu-item">	    			
+			<a href="./publications.html" class="link">Publications</a>
+		</li>-->
+	</ul>
+	
+	<div id="content">
+    	<div class="testo">
+		<h4>Research</h4>
+		<ul class="linkTeaching">
+			<li><b>Incomplete/Partial Verification: </b>
+			<p>In the last few years, the market evolution has evidenced the necessity to adapt software development processes to the new turbulent environment where user 
+			requirements and software technologies constantly change. In this context, a primary goal is to reduce the delay between design decisions and feedbacks from users. 
+			For this reason, software development processes have been evolving from rigid, pre-specified, and sequential to agile, incremental, and iterative. 
+			More precisely, in these processes, the final software is obtained through the development of 
+			a sequence of partial products (increments), which are self-containing units of software that represent specific features of the final system.
+			</p>
+			
+			<p>Although there have been surprising improvements that led to the development of efficient model checkers, the available mainstream techniques are not directly
+			applicable to incomplete and evolving specifications in which some parts may change over time. Most existing model-checking approaches require a complete re-check 
+			of the system against its requirements every time a part of the software is changed. If changes are frequent, formal verification becomes a bottleneck of the 
+			development process. For these reasons model-checking techniques must be equipped to accommodate incremental and iterative verification.
+			</p>
+			<p>Incremental and iterative verification concerns in a sequence of consecutive verification steps, which allow to verify software while its different parts are 
+			designed and developed. To this aim, the algorithm needs to generate and re-use information previously inferred, in a way to minimize the current and the future effort. 
+			The main idea is that when something changes, is it not necessary to verify the whole system from scratch, but it is possible to isolate the components that are subject 
+			to the change, and use the information previously generated (e.g., the constraints that a sub-component must satisfy) to infer the properties that hold in the whole 
+			system. 
+			</p>
+			</li>
+			<li><b>Adaptive Security: </b>
+			
+			<p>Security systems protect data and resources against unauthorized modifications, accesses, and disclosures. At the same time they must guarantee the availability 
+			of assets to the legitimate users. Engineering secure systems concerns identifying an adequate set of security controls to protect critical assets from unauthorized 
+			disclosures. The identification of this set of security controls highly depends on the location of the assets to be protected and on the topology of the building 
+			(or structure of the system) that need to be protected. 
+			</p>
+			<p>In this context, adaptation plays a key role. Changes in the values of the assets or in their locations can render existing security controls no longer effective.
+			For example, moving a valuable asset from a room to another may break its security. The system must be able to react to these changes. In the previous example, one 
+			possibility is to apply more restrictive security controls to the room in which the asset is moved, such as by neglecting the access to some categories of users, or 
+			to regulate the access on the area in which the room is located. The set of security controls that can be applied obviously depends on the set of functional and security 
+			requirements that the system must satisfy. 
+			</p>
+			</li>
+		</ul>
+	</div>
+    	
+    </div>
+    
+    <ul class="navigationbar"></ul>
+    
+    
+    <div id="footer">		
+		
+    </div>
+</div>
+</body>
+</html>
