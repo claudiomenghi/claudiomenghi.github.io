@@ -1,5 +1,5 @@
 #body {
-	
+
 	/*background-image: url('Immagini/background.png'); */
 	background-color: #FFFFCC;
 	margin:0px;
@@ -38,7 +38,7 @@ a.linkTeaching:hover{
 a.linkTeaching :active{
 	text-decoration: underline;
 	color: rgb(6, 76, 149);
-	
+
 }
 a.linkTeaching:visited{
 	color: black;
@@ -65,7 +65,7 @@ a.lessonLink:visited{
 
 
 #content {
-	
+
 	margin:0px;
 	padding:0px;
 	padding-right: 50px;
@@ -89,7 +89,7 @@ h4.tool{
 
 #container {
 
-	
+
 	width: 850px;
 
 	margin:10px auto auto auto;
@@ -117,7 +117,7 @@ background-color: white;
 	border-bottom-width:1px;
 
 	border-bottom-color:rgb(6, 76, 149);
-	
+
 
 }
 
@@ -205,9 +205,45 @@ a.mail:visited{
     padding-top: 2px;
 	padding-right: 30px;
 	padding-left: 20px;
-	margin-left: 10 px;
-	
-} 
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#bio {
+	background:none;
+    padding-top: 10px;
+	padding-right: 30px;
+	padding-left: 80px;
+	margin-left: 80px;
+	height: 1600px;
+
+}
+
+#contacts{
+	margin-right: 30px;
+	margin-left: 80px;
+}
+
+#twitter {
+	float:left;
+	width:260px;
+	height: 1600px;
+	background:none;
+    padding-top: 10px;
+	padding-right: 30px;
+	padding-left: 20px;
+	margin-left: 0px;
+	margin-right: 10px;
+		margin-top: 10px;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-right-color:rgb(6, 76, 149);
+	border-top-style:solid;
+	border-top-width:1px;
+	border-top-color:rgb(6, 76, 149);
+
+}
+
 .orientation-link{
 	text-decoration:underline;
 	color:orange;
@@ -260,7 +296,7 @@ a.mail:visited{
 }
 .note{
 
-	text-align: center; 
+	text-align: center;
 	margin-left: 20px;
 	color: red;
 	font-family:Arial, Helvetica, sans-serif;
@@ -294,7 +330,7 @@ a.mail:visited{
 .introductory-links-inattivi:hover{
 text-decoration:line-through;
 
-	
+
 }
 
 .navigationbar{
@@ -338,14 +374,14 @@ text-decoration:line-through;
 
 
 .navigation-link{
-	
+
 	color:rgb(6, 76, 149);
 	font-weight:bold;
 	font-size:14px;
-	font-family:Arial, Helvetica, sans-serif;	
+	font-family:Arial, Helvetica, sans-serif;
 }
 .navigation-link-freccia
-{	
+{
 	text-decoration:none;
 	border-style:none;
 	border:0px;
@@ -353,7 +389,7 @@ text-decoration:line-through;
 	font-size:14px;
 	width:20px;
 	height:16px;
-}	
+}
 
 
 #footer{
@@ -395,7 +431,7 @@ text-decoration:line-through;
 	padding:10px;
 }
 
-.immagine-content{	
+.immagine-content{
 	width:410px;
 	height:220px;
 }
@@ -418,7 +454,7 @@ text-decoration:line-through;
 	margin:0px;
 	text-align:center;
 	border-style:solid;
-	
+
 	border-color:green;
 	border-width:1px;
 }
