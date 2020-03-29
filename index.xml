@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claudio Menghi</title>
+    <link>https://claudiomenghi.github.io/</link>
+      <atom:link href="https://claudiomenghi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Claudio Menghi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Claudio Menghi</title>
+      <link>https://claudiomenghi.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Approximation-Refinement Testing of Compute-Intensive Cyber-Physical Models: An Approach Based on System Identification</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2020-approximation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2020-approximation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Model Checking and Topological Proofs to Instrument Iterative Design</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2020-integrating/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2020-integrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind the gap: Robotic Mission Planning Meets Software Engineering</title>
+      <link>https://claudiomenghi.github.io/publication/mehrnoosh-2020-mind/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/mehrnoosh-2020-mind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Checking MITL formulae on Timed Automata: a Logic-Based Approach</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2020-model/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2020-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PuRSUE - From Specification of Robotic Environments to Synthesis of Controllers</title>
+      <link>https://claudiomenghi.github.io/publication/bersani-2020-pursue/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/bersani-2020-pursue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UML consistency rules: a case study with open-source UML models</title>
+      <link>https://claudiomenghi.github.io/publication/torre-2020-uml/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/torre-2020-uml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2019 IEEE/ACM 2nd International Workshop on Robotics Software Engineering (RoSE)</title>
+      <link>https://claudiomenghi.github.io/publication/garcavza-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/garcavza-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A verification-driven framework for iterative design of controllers</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2019-verification/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2019-verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Model Testing and Model Checking for Finding Requirements Violations in Simulink Models</title>
+      <link>https://claudiomenghi.github.io/publication/nejati-2019-evaluating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/nejati-2019-evaluating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating automated and online test oracles for Simulink models with continuous and uncertain behaviors</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2019-generating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2019-generating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-level mission specification for multiple robots</title>
+      <link>https://claudiomenghi.github.io/publication/garcia-2019-high/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/garcia-2019-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAPmAKER: performing multi-robot LTL planning under uncertainty</title>
+      <link>https://claudiomenghi.github.io/publication/garcia-2019-mapmaker/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/garcia-2019-mapmaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Explainability and its Characterization</title>
+      <link>https://claudiomenghi.github.io/publication/bohlender-2019-explainability/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/bohlender-2019-explainability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PsALM: specification of dependable robotic missions</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2019-psalm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2019-psalm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Engineering for Smart Cyber-Physical Systems (SEsCPS 2018)-Workshop Report</title>
+      <link>https://claudiomenghi.github.io/publication/bures-2019-software/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/bures-2019-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specification patterns for robotic missions</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2019-specification/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2019-specification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategy Patterns for Multi-Agent CPS</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2019-strategy/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2019-strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Flexible Approach for Checking Timed Automata on Continuous Time Semantics</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2018-flexible/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2018-flexible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Architecture for Decentralized, Collaborative, and Autonomous Robots</title>
+      <link>https://claudiomenghi.github.io/publication/garcia-2018-architecture/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/garcia-2018-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Topological Proofs with Model Checking to Instrument Iterative Design</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2018-integrating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2018-integrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keeping intelligence under control</title>
+      <link>https://claudiomenghi.github.io/publication/mallozzi-2018-keeping/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/mallozzi-2018-keeping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Robot LTL Planning Under Uncertainty</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2018-multi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2018-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Property specification patterns for robotic missions</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2018-property/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2018-property/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Verification-Driven Incremental Distributed Design of Components.</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2018-supporting/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2018-supporting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVER: Change-based Goal Verifier and Reasoner.</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2017-cover/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2017-cover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From model checking to a temporal proof for partial models</title>
+      <link>https://claudiomenghi.github.io/publication/bernasconi-2017-model/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/bernasconi-2017-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating goal model analysis with iterative design</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2017-integrating/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2017-integrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems and methods for runtime adaptive security to protect variable assets</title>
+      <link>https://claudiomenghi.github.io/publication/salehie-2016-systems/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/salehie-2016-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARIsTEO</title>
+      <link>https://claudiomenghi.github.io/project/aristeo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/project/aristeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CHIA</title>
+      <link>https://claudiomenghi.github.io/project/chia/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/project/chia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVER</title>
+      <link>https://claudiomenghi.github.io/project/cover/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/project/cover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSALM</title>
+      <link>https://claudiomenghi.github.io/project/psalm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/project/psalm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOCRaTEs</title>
+      <link>https://claudiomenghi.github.io/project/socrates/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/project/socrates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TACK</title>
+      <link>https://claudiomenghi.github.io/project/tack/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/project/tack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dealing with Incompleteness in Automata-Based Model Checking</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2016-dealing/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2016-dealing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling, refining and analyzing Incomplete Büchi Automata</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2016-modeling/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2016-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering topology aware adaptive security: Preventing requirements violations at runtime</title>
+      <link>https://claudiomenghi.github.io/publication/tsigkanos-2014-engineering/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/tsigkanos-2014-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On requirement verification for evolving statecharts specifications</title>
+      <link>https://claudiomenghi.github.io/publication/ghezzi-2014-requirement/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/ghezzi-2014-requirement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topology aware adaptive security</title>
+      <link>https://claudiomenghi.github.io/publication/pasquale-2014-topology/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/pasquale-2014-topology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verifying incomplete and evolving specifications</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2014-verifying/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2014-verifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A control-theoretic approach to self-adaptive systems and an application to cloud-based software</title>
+      <link>https://claudiomenghi.github.io/publication/ghezzi-2013-control/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/ghezzi-2013-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptation in the Context of the Cloud: Models at Run-time and Model-Driven Adaptation</title>
+      <link>https://claudiomenghi.github.io/publication/gibilisco-2013-adaptation/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/gibilisco-2013-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On requirements verification for model refinements</title>
+      <link>https://claudiomenghi.github.io/publication/ghezzi-2013-requirements/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/ghezzi-2013-requirements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Agile Verification</title>
+      <link>https://claudiomenghi.github.io/publication/ghezzi-2013-towards/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/ghezzi-2013-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual, requirements driven, adaptive access control</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2012-contextual/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2012-contextual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SecuriTAS: a tool for engineering adaptive security</title>
+      <link>https://claudiomenghi.github.io/publication/pasquale-2012-securitas/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/pasquale-2012-securitas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

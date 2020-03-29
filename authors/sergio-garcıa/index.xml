@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sergio Garcı́a | Claudio Menghi</title>
+    <link>https://claudiomenghi.github.io/authors/sergio-garc%C4%B1a/</link>
+      <atom:link href="https://claudiomenghi.github.io/authors/sergio-garc%C4%B1a/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sergio Garcı́a</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sergio Garcı́a</title>
+      <link>https://claudiomenghi.github.io/authors/sergio-garc%C4%B1a/</link>
+    </image>
+    
+    <item>
+      <title>High-level mission specification for multiple robots</title>
+      <link>https://claudiomenghi.github.io/publication/garcia-2019-high/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/garcia-2019-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAPmAKER: performing multi-robot LTL planning under uncertainty</title>
+      <link>https://claudiomenghi.github.io/publication/garcia-2019-mapmaker/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/garcia-2019-mapmaker/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

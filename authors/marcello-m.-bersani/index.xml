@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcello M. Bersani | Claudio Menghi</title>
+    <link>https://claudiomenghi.github.io/authors/marcello-m.-bersani/</link>
+      <atom:link href="https://claudiomenghi.github.io/authors/marcello-m.-bersani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcello M. Bersani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Marcello M. Bersani</title>
+      <link>https://claudiomenghi.github.io/authors/marcello-m.-bersani/</link>
+    </image>
+    
+    <item>
+      <title>PuRSUE - From Specification of Robotic Environments to Synthesis of Controllers</title>
+      <link>https://claudiomenghi.github.io/publication/bersani-2020-pursue/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/bersani-2020-pursue/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

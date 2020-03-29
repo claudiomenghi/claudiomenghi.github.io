@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna Bernasconi | Claudio Menghi</title>
+    <link>https://claudiomenghi.github.io/authors/anna-bernasconi/</link>
+      <atom:link href="https://claudiomenghi.github.io/authors/anna-bernasconi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna Bernasconi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Anna Bernasconi</title>
+      <link>https://claudiomenghi.github.io/authors/anna-bernasconi/</link>
+    </image>
+    
+    <item>
+      <title>Integrating Model Checking and Topological Proofs to Instrument Iterative Design</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2020-integrating/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2020-integrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Topological Proofs with Model Checking to Instrument Iterative Design</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2018-integrating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2018-integrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From model checking to a temporal proof for partial models</title>
+      <link>https://claudiomenghi.github.io/publication/bernasconi-2017-model/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/bernasconi-2017-model/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

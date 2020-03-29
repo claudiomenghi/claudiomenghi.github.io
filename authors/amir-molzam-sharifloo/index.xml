@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amir Molzam Sharifloo | Claudio Menghi</title>
+    <link>https://claudiomenghi.github.io/authors/amir-molzam-sharifloo/</link>
+      <atom:link href="https://claudiomenghi.github.io/authors/amir-molzam-sharifloo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amir Molzam Sharifloo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Amir Molzam Sharifloo</title>
+      <link>https://claudiomenghi.github.io/authors/amir-molzam-sharifloo/</link>
+    </image>
+    
+    <item>
+      <title>On requirement verification for evolving statecharts specifications</title>
+      <link>https://claudiomenghi.github.io/publication/ghezzi-2014-requirement/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/ghezzi-2014-requirement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On requirements verification for model refinements</title>
+      <link>https://claudiomenghi.github.io/publication/ghezzi-2013-requirements/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/ghezzi-2013-requirements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Agile Verification</title>
+      <link>https://claudiomenghi.github.io/publication/ghezzi-2013-towards/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/ghezzi-2013-towards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

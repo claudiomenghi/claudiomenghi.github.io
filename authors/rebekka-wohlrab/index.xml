@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rebekka Wohlrab | Claudio Menghi</title>
+    <link>https://claudiomenghi.github.io/authors/rebekka-wohlrab/</link>
+      <atom:link href="https://claudiomenghi.github.io/authors/rebekka-wohlrab/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rebekka Wohlrab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Rebekka Wohlrab</title>
+      <link>https://claudiomenghi.github.io/authors/rebekka-wohlrab/</link>
+    </image>
+    
+    <item>
+      <title>An Architecture for Decentralized, Collaborative, and Autonomous Robots</title>
+      <link>https://claudiomenghi.github.io/publication/garcia-2018-architecture/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/garcia-2018-architecture/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

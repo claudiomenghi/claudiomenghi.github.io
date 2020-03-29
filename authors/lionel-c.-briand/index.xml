@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lionel C. Briand | Claudio Menghi</title>
+    <link>https://claudiomenghi.github.io/authors/lionel-c.-briand/</link>
+      <atom:link href="https://claudiomenghi.github.io/authors/lionel-c.-briand/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lionel C. Briand</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Lionel C. Briand</title>
+      <link>https://claudiomenghi.github.io/authors/lionel-c.-briand/</link>
+    </image>
+    
+    <item>
+      <title>Approximation-Refinement Testing of Compute-Intensive Cyber-Physical Models: An Approach Based on System Identification</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2020-approximation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2020-approximation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating automated and online test oracles for Simulink models with continuous and uncertain behaviors</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2019-generating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2019-generating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

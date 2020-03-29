@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inah Omoronyia | Claudio Menghi</title>
+    <link>https://claudiomenghi.github.io/authors/inah-omoronyia/</link>
+      <atom:link href="https://claudiomenghi.github.io/authors/inah-omoronyia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inah Omoronyia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Inah Omoronyia</title>
+      <link>https://claudiomenghi.github.io/authors/inah-omoronyia/</link>
+    </image>
+    
+    <item>
+      <title>Systems and methods for runtime adaptive security to protect variable assets</title>
+      <link>https://claudiomenghi.github.io/publication/salehie-2016-systems/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/salehie-2016-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SecuriTAS: a tool for engineering adaptive security</title>
+      <link>https://claudiomenghi.github.io/publication/pasquale-2012-securitas/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/pasquale-2012-securitas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
