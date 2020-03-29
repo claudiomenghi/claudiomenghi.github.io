@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Wolfe | Claudio Menghi</title>
+    <link>https://claudiomenghi.github.io/authors/david-wolfe/</link>
+      <atom:link href="https://claudiomenghi.github.io/authors/david-wolfe/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Wolfe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>David Wolfe</title>
+      <link>https://claudiomenghi.github.io/authors/david-wolfe/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating Model Testing and Model Checking for Finding Requirements Violations in Simulink Models</title>
+      <link>https://claudiomenghi.github.io/publication/nejati-2019-evaluating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/nejati-2019-evaluating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

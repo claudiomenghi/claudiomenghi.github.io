@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo | Claudio Menghi</title>
+    <link>https://claudiomenghi.github.io/tags/demo/</link>
+      <atom:link href="https://claudiomenghi.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Demo</title>
+      <link>https://claudiomenghi.github.io/tags/demo/</link>
+    </image>
+    
+    <item>
+      <title>ARIsTEO</title>
+      <link>https://claudiomenghi.github.io/project/aristeo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/project/aristeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CHIA</title>
+      <link>https://claudiomenghi.github.io/project/chia/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/project/chia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVER</title>
+      <link>https://claudiomenghi.github.io/project/cover/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/project/cover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSALM</title>
+      <link>https://claudiomenghi.github.io/project/psalm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/project/psalm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOCRaTEs</title>
+      <link>https://claudiomenghi.github.io/project/socrates/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/project/socrates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TACK</title>
+      <link>https://claudiomenghi.github.io/project/tack/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/project/tack/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

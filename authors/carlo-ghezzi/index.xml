@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlo Ghezzi | Claudio Menghi</title>
+    <link>https://claudiomenghi.github.io/authors/carlo-ghezzi/</link>
+      <atom:link href="https://claudiomenghi.github.io/authors/carlo-ghezzi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carlo Ghezzi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Carlo Ghezzi</title>
+      <link>https://claudiomenghi.github.io/authors/carlo-ghezzi/</link>
+    </image>
+    
+    <item>
+      <title>A verification-driven framework for iterative design of controllers</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2019-verification/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2019-verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specification patterns for robotic missions</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2019-specification/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2019-specification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Property specification patterns for robotic missions</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2018-property/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2018-property/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Verification-Driven Incremental Distributed Design of Components.</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2018-supporting/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2018-supporting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVER: Change-based Goal Verifier and Reasoner.</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2017-cover/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2017-cover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From model checking to a temporal proof for partial models</title>
+      <link>https://claudiomenghi.github.io/publication/bernasconi-2017-model/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/bernasconi-2017-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating goal model analysis with iterative design</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2017-integrating/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2017-integrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dealing with Incompleteness in Automata-Based Model Checking</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2016-dealing/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2016-dealing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling, refining and analyzing Incomplete Büchi Automata</title>
+      <link>https://claudiomenghi.github.io/publication/menghi-2016-modeling/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/menghi-2016-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering topology aware adaptive security: Preventing requirements violations at runtime</title>
+      <link>https://claudiomenghi.github.io/publication/tsigkanos-2014-engineering/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/tsigkanos-2014-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On requirement verification for evolving statecharts specifications</title>
+      <link>https://claudiomenghi.github.io/publication/ghezzi-2014-requirement/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/ghezzi-2014-requirement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topology aware adaptive security</title>
+      <link>https://claudiomenghi.github.io/publication/pasquale-2014-topology/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/pasquale-2014-topology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A control-theoretic approach to self-adaptive systems and an application to cloud-based software</title>
+      <link>https://claudiomenghi.github.io/publication/ghezzi-2013-control/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/ghezzi-2013-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On requirements verification for model refinements</title>
+      <link>https://claudiomenghi.github.io/publication/ghezzi-2013-requirements/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/ghezzi-2013-requirements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Agile Verification</title>
+      <link>https://claudiomenghi.github.io/publication/ghezzi-2013-towards/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/ghezzi-2013-towards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
