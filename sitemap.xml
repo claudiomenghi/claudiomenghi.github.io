@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://claudiomenghi.github.io/publication/fse-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://claudiomenghi.github.io/publication_types/1/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -53,12 +58,27 @@
   </url>
   
   <url>
+    <loc>https://claudiomenghi.github.io/authors/david-wolfe/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://claudiomenghi.github.io/authors/gabriele-belli/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://claudiomenghi.github.io/publication/menghi-2020-integrating/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://claudiomenghi.github.io/authors/khouloud-gaaloul/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://claudiomenghi.github.io/authors/lionel-briand/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,11 +223,6 @@
   </url>
   
   <url>
-    <loc>https://claudiomenghi.github.io/authors/david-wolfe/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://claudiomenghi.github.io/authors/dimitri-bohlender/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -244,11 +259,6 @@
   
   <url>
     <loc>https://claudiomenghi.github.io/authors/joao-cambeiro/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://claudiomenghi.github.io/authors/khouloud-gaaloul/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -453,12 +463,12 @@
   </url>
   
   <url>
-    <loc>https://claudiomenghi.github.io/project/cover/</loc>
+    <loc>https://claudiomenghi.github.io/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://claudiomenghi.github.io/tags/demo/</loc>
+    <loc>https://claudiomenghi.github.io/project/epicurus/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   

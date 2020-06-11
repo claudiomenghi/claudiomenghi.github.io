@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title> Mining Assumptions for Software Components using Machine Learning</title>
+      <link>https://claudiomenghi.github.io/publication/fse-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://claudiomenghi.github.io/publication/fse-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Approximation-Refinement Testing of Compute-Intensive Cyber-Physical Models: An Approach Based on System Identification</title>
       <link>https://claudiomenghi.github.io/publication/menghi-2020-approximation/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -253,10 +261,10 @@
     </item>
     
     <item>
-      <title>COVER</title>
-      <link>https://claudiomenghi.github.io/project/cover/</link>
+      <title>EPIcuRus</title>
+      <link>https://claudiomenghi.github.io/project/epicurus/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://claudiomenghi.github.io/project/cover/</guid>
+      <guid>https://claudiomenghi.github.io/project/epicurus/</guid>
       <description></description>
     </item>
     
